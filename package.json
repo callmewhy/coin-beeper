@@ -2,8 +2,8 @@
   "name": "coin-beeper",
   "version": "0.0.0",
   "author": "callmewhy <whywanghai@gmail.com>",
-  "description": "A tiny status bar widget for OS X that displays the latest spot prices from several tickers",
-  "license": null,
+  "description": "A tiny status bar widget that displays the latest prices of crypto-currencies",
+  "license": "GPLv3",
   "main": "./dist/electron/main.js",
   "scripts": {
     "build": "node .electron-vue/build.js && electron-builder",
